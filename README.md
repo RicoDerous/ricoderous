@@ -45,7 +45,7 @@ But I loved solving problems and developed a passion for mathematics, so I event
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-## Some Maths I studied
+## Some Maths I studied (I'm not good, I'm not comparable to a real mathematician, of course).
 - Discrete Mathematics
 - Logic
 - Linear Algebra
