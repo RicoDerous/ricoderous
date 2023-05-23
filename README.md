@@ -29,7 +29,9 @@ But I loved solving problems and developed a passion for mathematics, so I event
 - Theoretical Computer Science
 - Game Engineering and Game Design
 
-## Languages And Tools
+## Languages And Tools (I can't do anything)
+I suck at programming, I just write shitty code.
+
 <p align="left"> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <br>
