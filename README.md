@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# RicoDerous
+# Hey!
 ## About
 Yoh, my name is Federico De Rosa, I attend the Faculty of Computer Science at university (more or less).
 I graduated from an IT-oriented high school, where I learnt the basics of procedural programming, OOP, Operating Systems, Networks, Distributed Systems and Databases.
