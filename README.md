@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 # Hey!
 ## About
 Yoh, my name is Federico De Rosa, I attend the Faculty of Computer Science at university (more or less).
-I graduated from an IT-oriented high school, where I learnt the basics of procedural programming, OOP, Operating Systems, Networks, Distributed Systems and Databases.
-Also web development. _(Brr)_
-
-As I matured, I realised that the average IT worker, where even the least competent was able to get ahead, was not for me.
-But I loved solving problems and developed a passion for mathematics, so I eventually decided to continue on a university path, hoping one day to work in some context that would satisfy my brain and avoid falling asleep at work.
 ## Interests
 - Computer Graphics
 - Artificial Intelligence
