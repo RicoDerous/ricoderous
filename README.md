@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hey!
 ## About
-Yoh, my name is Federico De Rosa, I attend the Faculty of Computer Science at university (more or less).
+Hey, my name is Federico De Rosa, and I'm enrolled in the Faculty of Computer Science at university (more or less).
 ## Interests
 - Computer Graphics
 - Artificial Intelligence
@@ -48,5 +48,4 @@ I suck at programming, I just write shitty code.
 - Linear Algebra
 - Calculus
 ## Projects
-At the moment I have not done anything relatively useful/serious, plus I suffer from great, really great, laziness. 
-I am not joking, I think I have some problems.
+At the moment, I haven't done anything relatively useful or serious, and I suffer from a great, really great, laziness. I'm not joking, I think I have some problems.
